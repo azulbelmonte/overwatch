@@ -1,0 +1,13 @@
+{
+    "name": "overwatch",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "main.scss",
+    "scripts": {
+        "sass": "sass scss:css -w"
+    },
+    "dependencies": {
+        "sass": "1.69.5"
+    }
+}
